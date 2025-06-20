@@ -41,7 +41,7 @@ From [Lichess Tournament Games Dataset](https://www.kaggle.com/datasets/lichess/
 
 ## 🖼️ Screenshots
 
-| ![screenshot](assets/app_ss.png) |
+| ![screenshot](assets/tab1.png) |
 |:--:|
 | *Top 10 Openings by Popularity* |
 
