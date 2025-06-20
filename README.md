@@ -41,10 +41,14 @@ From [Lichess Tournament Games Dataset](https://www.kaggle.com/datasets/lichess/
 
 ## 🖼️ Screenshots
 
-| ![screenshot](assets/tab1.png) |
-|:--:|
-| *Top 10 Openings by Popularity* |
-
+<p float="left">
+  <img src="assets/tab1.png" width="200"/>
+  <img src="assets/tab2.png" width="200"/>
+  <img src="assets/tab3.png" width="200"/>
+  <img src="assets/tab4.png" width="200"/>
+  <img src="assets/tab5.png" width="200"/>
+  <img src="assets/tab6.png" width="200"/>
+</p>
 ---
 
 ## 🚀 How to Run
